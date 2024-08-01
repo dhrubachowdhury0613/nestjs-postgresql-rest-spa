@@ -1,8 +1,4 @@
 <img src="./cover.png" align="center" alt="">
-
-<br/>
-<br/>
-
 <div align="center"><strong>Headstart Single Page Application with Nestjs Angular, React, Next.js</strong></div>
 
 <div align="center">An enterprise grade scalable NestJS boilerplate with Angular, React, Next.js SPA included.</div>
