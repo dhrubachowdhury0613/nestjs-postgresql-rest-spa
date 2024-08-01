@@ -23,4 +23,3 @@ To read the complete documentation [click here](https://gitbook.io/)
 ## NestJs API Features
 - _**Quick Setup**_ - Quickly setup and configure your application.
 - _**CQRS Patter**_ - The command query responsibility segregation (CQRS) pattern separates the data mutation, or the command part of a system, from the query part.
-- _**AutoMapper**_ - An object-object mapping solution by convention in TypeScript.
